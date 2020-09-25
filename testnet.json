@@ -1,5 +1,6 @@
 {"name":"NewSwap TestNet","logoURI":"https://www.newtonproject.org/static/images/logo_v3/logo.svg?v=450","keywords":["defi"],"timestamp":"2020-09-13T09:38:06.416+00:00","tokens":[
 {"chainId":1007,"address":"0x2cd062ff9997e3f7697baf7028f42fe69deeaef9","name":"New USD","symbol":"NUSD","decimals":18},
 {"chainId":1007,"address":"0x437c8c30da026a4c5c9825fdca8e0acf94e5ccad","name":"MSK1","symbol":"MSK1","decimals":18},
-{"chainId":1007,"address":"0xb4311ffe4be83d2e7b0905e5d637bfa323547f24","name":"MSK2","symbol":"MSK2","decimals":18}
+{"chainId":1007,"address":"0xb4311ffe4be83d2e7b0905e5d637bfa323547f24","name":"MSK2","symbol":"MSK2","decimals":18},
+{"chainId":1007,"address":"0x7da6efcf090f1020a5086bf391e067846045cf56","name":"NewMall Cash","symbol":"NMC","decimals":18}
 ],"version":{"major":0,"minor":0,"patch":0}}
