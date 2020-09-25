@@ -1,5 +1,6 @@
 {"name":"NewSwap TestNet","logoURI":"https://www.newtonproject.org/static/images/logo_v3/logo.svg?v=450","keywords":["defi"],"timestamp":"2020-09-13T09:38:06.416+00:00","tokens":[
-{"chainId":1007,"address":"0x2cd062ff9997e3f7697baf7028f42fe69deeaef9","name":"New USD","symbol":"NUSD","decimals":18},
+{"chainId":1007,"address":"0xe26d5AFAD5c8CD5FBda329959838f881B0C1BD34","name":"NewUSD","symbol":"NUSD","decimals":6},
+{"chainId":1007,"address":"0x2cd062ff9997e3f7697baf7028f42fe69deeaef9","name":"Old New USD","symbol":"NUSD","decimals":18},
 {"chainId":1007,"address":"0x437c8c30da026a4c5c9825fdca8e0acf94e5ccad","name":"MSK1","symbol":"MSK1","decimals":18},
 {"chainId":1007,"address":"0xb4311ffe4be83d2e7b0905e5d637bfa323547f24","name":"MSK2","symbol":"MSK2","decimals":18},
 {"chainId":1007,"address":"0x36399c3b1144bacfa03d1109fb876120baf9a878","name":"AMPM","symbol":"AMPM","decimals":8},
