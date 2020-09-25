@@ -4,4 +4,4 @@
 {"chainId":1007,"address":"0xb4311ffe4be83d2e7b0905e5d637bfa323547f24","name":"MSK2","symbol":"MSK2","decimals":18},
 {"chainId":1007,"address":"0x36399c3b1144bacfa03d1109fb876120baf9a878","name":"AMPM","symbol":"AMPM","decimals":8},
 {"chainId":1007,"address":"0x7da6efcf090f1020a5086bf391e067846045cf56","name":"NewMall Cash","symbol":"NMC","decimals":18}
-],"version":{"major":0,"minor":0,"patch":0}}
+],"version":{"major":0,"minor":1,"patch":0}}
